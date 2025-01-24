@@ -8,7 +8,7 @@ There are 2 files in this repository, this README that you are currently viewing
 - `index.html`
 
 ## What I Learned
-In this lab, I created a GitHub repository to understand how version control works, I used Codespaces to write the HTML code for the webpage, I explored based HTML and CSS for styling, and I finally published the page through GitHub Pages to understand how web hosting works.
+In this lab, I created a GitHub repository to understand how version control works, I used Codespaces to write the HTML code for the webpage, I explored basic HTML and CSS for styling, and I finally published the page through GitHub Pages to understand how web hosting works.
 
 ## View Webpage
 `https://ava-c-j.github.io/HelloWorld/`
